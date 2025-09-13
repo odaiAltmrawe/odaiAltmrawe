@@ -4,6 +4,8 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Engineer+%F0%9F%92%BB;Android+Developer+%F0%9F%93%B1;FPGA+Hardware+Designer+%E2%9A%A1;Full+Stack+Developer+%F0%9F%8C%90;AI+%26+Machine+Learning+%F0%9F%A4%96)](https://git.io/typing-svg)
 
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+
 </div>
 
 ---
@@ -22,81 +24,316 @@
 - 💡 Passionate about **IoT systems** and **embedded programming**
 - ⚡ Fun fact: I built a **dual-issue out-of-order processor** from scratch!
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ---
 
 ## 🛠️ Tech Arsenal
 
 ### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-FF6B6B?style=for-the-badge&logo=v&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Verilog.svg" alt="Verilog" width="60" height="60"/>
+</p>
 
-### 📱 Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 📱 Mobile & Frontend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+</p>
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 🌐 Backend & Frameworks
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+</p>
 
-### 🤖 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-
-### ⚡ Hardware & Embedded
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-FF6B35?style=for-the-badge&logo=xilinx&logoColor=white)
-![PIC](https://img.shields.io/badge/PIC-FF6600?style=for-the-badge&logo=microchip&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odaialtmrawe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odaialtmrawe&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odaialtmrawe&theme=tokyonight" alt="GitHub Streak" />
-</div>
+### 🤖 AI & Hardware
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="60" height="60"/>
+  <img src="https://www.ros.org/imgs/logo-white.png" alt="ROS2" width="60" height="60" style="background-color: #22314e; border-radius: 10px; padding: 5px;"/>
+</p>
 
 ---
 
-## 🏆 Featured Projects
+## 📊 GitHub Analytics & Contribution Snake
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odaialtmrawe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odaialtmrawe&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odaialtmrawe&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</div>
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/odaialtmrawe/odaialtmrawe/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=odaialtmrawe&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Additional Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=odaialtmrawe&theme=tokyo-night&bg_color=1a1b27&hide_border=true&border_radius=10" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odaialtmrawe&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=odaialtmrawe&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=odaialtmrawe&theme=tokyonight" alt="Repos per Language" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  
 ### 🤖 AI & Machine Learning
-- **🧠 Chatbot from Scratch** - Built intelligent conversational AI using NLP and ML algorithms
-- **👋 Hand-Controlled Ball Game** - Computer vision game with gesture recognition
-- **📊 Automated Passenger Counting System** - Embedded system for public transport analytics
+  
+</div>
 
+<table>
+<tr>
+<td width="50%">
+
+#### 🧠 Chatbot from Scratch
+Built intelligent conversational AI using NLP and ML algorithms
+
+**Tech Stack:**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="30"/>
+</p>
+
+```python
+def process_user_input(message):
+    tokens = tokenize(message)
+    intent = classify_intent(tokens)
+    response = generate_response(intent)
+    return response
+```
+
+</td>
+<td width="50%">
+
+#### 👋 Hand-Controlled Ball Game  
+Computer vision game with gesture recognition
+
+**Tech Stack:**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="30"/>
+</p>
+
+```python
+def detect_hand_gesture(frame):
+    hand_landmarks = mediapipe.process(frame)
+    gesture = classify_gesture(landmarks)
+    return gesture
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  
 ### 📱 Mobile Applications
-- **🏆 Voting App** - Ranked 6th out of 150 apps in competition (Flutter)
-- **🎮 Joystick App & Bluetooth Chat** - Interactive Flutter apps with Bluetooth connectivity
-- **🌦️ Weather App & Caller Loop** - Native Android applications with API integrations
+  
+</div>
 
+<table>
+<tr>
+<td width="50%">
+
+#### 🏆 Voting App - 6th Place Winner
+Ranked 6th out of 150 apps in competition
+
+**Tech Stack:**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30"/>
+</p>
+
+```dart
+class VotingScreen extends StatefulWidget {
+  @override
+  _VotingScreenState createState() => _VotingScreenState();
+}
+```
+
+</td>
+<td width="50%">
+
+#### 🌦️ Weather App & Caller Loop
+Native Android applications with API integrations
+
+**Tech Stack:**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/>
+</p>
+
+```java
+public class WeatherAPI {
+    private String API_KEY = "your_api_key";
+    public WeatherData getWeatherData(String city) {
+        // API implementation
+    }
+}
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  
 ### ⚡ Hardware & FPGA
-- **🖥️ Dual-Issue Out-of-Order Processor** - Advanced processor architecture in Verilog
-- **🌧️ Rain-Aware Garden Irrigation System** - IoT-based smart irrigation with weather integration
-- **🏥 Client/Server Medical Platform** - Secure medical data management with TCP API
+  
+</div>
 
-### 🌐 Web Development
-- **🔐 Confidential Company Project (Dubai)** - Automation app with Amazon APIs integration
-- **💻 Full Stack Web Applications** - Laravel, React.js, and FastAPI implementations
+<table>
+<tr>
+<td width="50%">
+
+#### 🖥️ Dual-Issue Out-of-Order Processor
+Advanced processor architecture in Verilog
+
+**Features:**
+- Dual-issue execution
+- Out-of-order processing
+- Branch prediction
+- Cache optimization
+
+```verilog
+module dual_issue_processor(
+    input clk, rst,
+    input [31:0] instruction1, instruction2,
+    output [31:0] result1, result2
+);
+```
+
+</td>
+<td width="50%">
+
+#### 🌧️ Rain-Aware Garden Irrigation
+IoT-based smart irrigation with weather integration
+
+**Tech Stack:**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/>
+</p>
+
+```c
+void checkWeatherAndIrrigate() {
+    if (getRainProbability() < THRESHOLD) {
+        activateIrrigation();
+    }
+}
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  
+### 🌐 Web & Backend
+  
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏥 Client/Server Medical Platform
+Secure medical data management system
+
+**Tech Stack:**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30"/>
+</p>
+
+```php
+class MedicalController extends Controller {
+    public function secureDataTransfer($data) {
+        return encrypt($data);
+    }
+}
+```
+
+</td>
+<td width="50%">
+
+#### 🔐 Dubai Automation Project
+Confidential automation app with Amazon APIs
+
+**Tech Stack:**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="30"/>
+</p>
+
+```python
+import boto3
+def analyze_automation_data():
+    client = boto3.client('s3')
+    # Data processing logic
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Detailed Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=odaialtmrawe&theme=tokyonight&border_radius=10" alt="WakaTime Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=odaialtmrawe&repo=weather-app&theme=tokyonight&border_radius=10" alt="Weather App Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=odaialtmrawe&repo=voting-app&theme=tokyonight&border_radius=10" alt="Voting App Repo" />
+</div>
 
 ---
 
 ## 🎯 Current Focus
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
+</div>
 
 ```javascript
 const odai = {
@@ -110,19 +347,36 @@ const odai = {
 
 ---
 
-## 🎨 Activity Graph
+## 🏅 Achievements & Certifications
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=odaialtmrawe&theme=tokyo-night&bg_color=1a1b27&hide_border=true" />
+  
+| Achievement | Year | Details |
+|-------------|------|---------|
+| 🥇 **6th Place Flutter Competition** | 2025 | Out of 150 applications |
+| 📱 **Android Instructor** | 2024-Present | Tesla Academy |
+| 👥 **Mobile Team Leader** | 2025-Present | Waves JU |
+| 🎓 **Computer Engineering** | 2021-Present | GPA: 3.45/4.0 |
+
 </div>
 
 ---
 
-## 🏅 Achievements & Certifications
+## 📚 Learning Journey
 
-- 🥇 **6th Place** out of 150 apps in Flutter Competition (2025)
-- 📱 **Native Android Instructor** - Tesla Academy
-- 👥 **Mobile Team Leader** - Waves JU
-- 🎓 **Multiple Certifications**: Android, Computer Vision, Verilog, ROS2, ML
+<div align="center">
+  
+```mermaid
+graph LR
+    A[2019: Android Java] --> B[2023: Computer Vision]
+    B --> C[2023: Verilog FPGA]
+    C --> D[2024: Flutter & Dart]
+    D --> E[2025: Full Stack Web]
+    E --> F[2025: Machine Learning]
+    F --> G[Future: AI Specialization]
+```
+
+</div>
 
 ---
 
@@ -134,6 +388,8 @@ const odai = {
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adaialtmrawe@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+962787366431)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/odaialtmrawe)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 </div>
 
@@ -153,6 +409,8 @@ const odai = {
   
   **⭐ From [Odai ALtmrawe](https://github.com/odaialtmrawe) with 💜**
   
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
   *"Code is poetry written in logic"*
 </div>
 
@@ -171,5 +429,7 @@ const odai = {
 <div align="center">
   
   ### 🌟 "Innovation distinguishes between a leader and a follower" - Steve Jobs
+  
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100"/>
   
 </div>
