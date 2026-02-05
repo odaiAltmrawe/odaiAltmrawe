@@ -1,162 +1,224 @@
-# <div align="center">🌟 Welcome to Odai ALtmrawe's Digital Universe 🌟</div>
-
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Odai%20ALtmrawe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Engineer%20%7C%20Mobile%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18)
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=ODAI%20ALTMRAWE&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Innovating%20at%20the%20Intersection%20of%20AI,%20Mobile%20&%20Hardware&descAlignY=58&descSize=20&descAlign=50" alt="header"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=100&lines=Award-Winning+Developer+%F0%9F%8F%86;Computer+Engineer+%7C+AI+Enthusiast+%F0%9F%A4%96;Mobile+Developer+%7C+FPGA+Designer+%E2%9A%A1;Building+Tomorrow's+Technology+Today+%F0%9F%9A%80" alt="Typing SVG" /></a>
+
+<!-- Profile Views & Social Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=odaialtmrawe&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/odaialtmrawe?label=Followers&style=flat-square&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/odaialtmrawe?label=Stars&style=flat-square&color=yellow" alt="stars" />
+</p>
+
+<!-- Quick Links -->
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-trophy-case">Awards</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-connect-with-me">Connect</a>
+</p>
 
 </div>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Engineer+%F0%9F%92%BB;Android+Developer+%F0%9F%93%B1;FPGA+Hardware+Designer+%E2%9A%A1;Full+Stack+Developer+%F0%9F%8C%90;AI+%26+Machine+Learning+%F0%9F%A4%96;Award-Winning+Developer+%F0%9F%8F%86)](https://git.io/typing-svg)
+<br>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation"/>
-
-</div>
-
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="420" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
 
-```javascript
-const odai = {
-    name: "Odai ALtmrawe",
-    title: "Computer Engineer & Mobile Developer",
-    location: "Jordan 🇯🇴",
+```typescript
+const odaiAltmrawe = {
+    identity: {
+        name: "Odai ALtmrawe",
+        role: "Computer Engineer | Award-Winning Developer",
+        location: "Jordan 🇯🇴",
+        motto: "Code. Create. Innovate. Repeat. 🚀"
+    },
+    
     education: {
-        degree: "BS Computer Engineering",
+        degree: "BS in Computer Engineering",
         university: "University of Jordan",
         gpa: "3.45/4.0",
-        status: "2021 - Present"
+        period: "2021 - Present"
     },
-    currentRoles: [
+    
+    currentEngagements: [
         "📱 Native Android Instructor @ Tesla Academy",
-        "👥 Mobile Team Leader @ Waves JU"
+        "👨‍💼 Mobile Team Leader @ Waves JU",
+        "🏆 IEEE Competition Champion (3rd Place)",
+        "🎖️ Crown Prince Award Finalist (6th/150)"
     ],
-    recentAchievements: [
+    
+    expertise: {
+        mobile: ["Android Native", "Flutter", "React Native"],
+        backend: ["Laravel", "FastAPI", ".NET Web API Core", "Node.js"],
+        ai_ml: ["TensorFlow", "PyTorch", "Computer Vision", "NLP"],
+        hardware: ["FPGA Design", "Verilog", "Embedded Systems"],
+        web: ["React.js", "HTML/CSS/JS", "Full Stack Development"]
+    },
+    
+    achievements: [
         "🥉 3rd Place - IEEE MotionSense AI Competition 2025",
-        "🏅 6th Place - Crown Prince Award 2025"
+        "🏅 6th Place - Crown Prince Award 2025 (150+ apps)",
+        "⚡ Built dual-issue out-of-order processor from scratch",
+        "🎯 Multiple award-winning mobile applications"
     ],
-    focus: ["Mobile Development", "FPGA Design", "AI & ML"],
-    motto: "Transforming ideas into code, one commit at a time! 🚀"
+    
+    currentFocus: [
+        "Advanced AI/ML implementations",
+        "Scalable mobile architectures", 
+        "FPGA processor design",
+        "Transforming award-winning projects into startups"
+    ],
+    
+    funFact: "I design processors at the hardware level and " +
+             "build AI apps at the software level! 🧠⚡"
 };
 ```
 
-- 🔭 Currently working on **cutting-edge Android applications** and **AI-powered solutions**
-- 🌱 Learning **advanced machine learning** and **computer vision** techniques
-- 💡 Passionate about **IoT systems**, **embedded programming**, and **FPGA design**
-- ⚡ Fun fact: I built a **dual-issue out-of-order processor** from scratch!
-- 🎯 Goal: Creating technology that makes a positive impact
+<br>
 
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Awards & Achievements
+## 🏆 Trophy Case
 
 <div align="center">
 
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=odaialtmrawe&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+
+</div>
+
+### 🎖️ Competition Achievements
+
 <table>
 <tr>
-<td width="50%" align="center">
-<img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="200"/>
+<td width="50%" valign="top">
 
-### 🥉 IEEE MotionSense AI Competition 2025
-**3rd Place Winner**
-**Actify: AI-Powered Fitness Tracker**
-*Transforming motion data into valuable health insights*
+#### 🥉 IEEE MotionSense AI Competition 2025
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="AI Competition"/>
+
+**🏆 3rd Place Winner**
+- **Project:** Actify - AI-Powered Fitness Tracker
+- **Achievement:** Beat 50+ teams with cutting-edge ML
+- **Impact:** Real-time motion analysis & health insights
+- **Tech:** TensorFlow, Flutter, Sensor Fusion
 
 </td>
-<td width="50%" align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+<td width="50%" valign="top">
 
-### 🏅 Crown Prince Award 2025
-**6th Place out of 150 Apps**
-**Sawtak: Civic Engagement Platform**
-*Connecting citizens with decision makers*
+#### 🏅 Crown Prince Award 2025
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Crown Award"/>
+
+**🎖️ 6th Place out of 150 Apps**
+- **Project:** Sawtak - Civic Engagement Platform
+- **Achievement:** National recognition for social impact
+- **Impact:** Connecting citizens with decision-makers
+- **Tech:** Flutter, Firebase, Node.js, Real-time Analytics
 
 </td>
 </tr>
 </table>
 
-</div>
+<br>
 
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,js,php" />
+### 💻 Languages & Frameworks
+
+<table>
+<tr>
+<td align="center" width="25%">
+<h4>Mobile Development</h4>
+<img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,androidstudio" /><br>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</td>
+<td align="center" width="25%">
+<h4>Web Development</h4>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" /><br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</td>
+<td align="center" width="25%">
+<h4>Backend & APIs</h4>
+<img src="https://skillicons.dev/icons?i=laravel,php,dotnet,python,fastapi" /><br>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</td>
+<td align="center" width="25%">
+<h4>AI & Machine Learning</h4>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python" /><br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</td>
+</tr>
+</table>
+
+### ⚡ Hardware & Systems
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h4>FPGA & HDL</h4>
+<img src="https://skillicons.dev/icons?i=verilog" width="50"/><br>
+<img src="https://img.shields.io/badge/Verilog-00599C?style=for-the-badge&logo=v&logoColor=white" />
+<img src="https://img.shields.io/badge/FPGA-0071C5?style=for-the-badge&logo=xilinx&logoColor=white" />
+</td>
+<td align="center" width="33%">
+<h4>Embedded Systems</h4>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp" /><br>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+</td>
+<td align="center" width="33%">
+<h4>Databases & Cloud</h4>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git" /><br>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</td>
+</tr>
+</table>
+
+### 🧰 Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,linux" />
 </p>
 
-### 📱 Mobile Development
-<p>
-<img src="https://skillicons.dev/icons?i=android,flutter,react" />
+<p align="center">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-### 🌐 Web Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,laravel,php" />
-</p>
+</div>
+
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 Featured Projects
+
+<div align="center">
 
 ### 🤖 AI & Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-### ⚡ Hardware & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,vscode,figma" />
-</p>
-
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Analytics
-
-<div align="center">
-
-<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=odaialtmrawe&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=odaialtmrawe&theme=react&border_radius=10" alt="streak stats"/>
-
-<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=odaialtmrawe&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-
-</div>
-
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/odaialtmrawe/odaialtmrawe/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-### 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=odaialtmrawe&bg_color=20232a&color=61dafb&line=61dafb&point=61dafb&area=true&hide_border=true" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏅 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=odaialtmrawe&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Featured Projects
-
-<div align="center">
-
-### 🤖 AI & Machine Learning Projects
 
 </div>
 
@@ -164,70 +226,66 @@ const odai = {
 <tr>
 <td width="50%">
 
+<h3 align="center">🧠 Actify - AI Fitness Tracker</h3>
+
 <div align="center">
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250"/>
-</div>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="Actify"/>
+<br><br>
 
-#### 🧠 Actify - AI Fitness Tracker
-**🥉 3rd Place IEEE Competition Winner**
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/odaialtmrawe)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/odaialtmrawe)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/odaialtmrawe)
 
-Transform your motion data into actionable health insights using advanced AI algorithms.
+**🥉 IEEE Competition Winner | 3rd Place**
 
-**Tech Stack:**
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,flutter,dart" />
-</p>
+Transform your motion data into actionable health insights using advanced AI algorithms and real-time sensor fusion.
 
-```python
-class MotionSenseAI:
-    def __init__(self):
-        self.model = load_trained_model()
-    
-    def analyze_motion(self, sensor_data):
-        insights = self.model.predict(sensor_data)
-        return generate_health_recommendations(insights)
-```
-
-**Features:**
+**Key Features:**
 - 🏃‍♂️ Real-time activity recognition
-- 📊 Health insights dashboard
-- 🎯 Personalized recommendations
+- 📊 Personalized health insights
+- 🎯 ML-powered recommendations
 - 📱 Cross-platform mobile app
+- 🔄 Continuous model improvement
+
+**Tech Highlights:**
+- Custom TensorFlow ML models
+- Sensor data preprocessing pipeline
+- Real-time inference optimization
+- Flutter-based responsive UI
+
+</div>
 
 </td>
 <td width="50%">
 
+<h3 align="center">🗳️ Sawtak - Civic Platform</h3>
+
 <div align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
-</div>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Sawtak"/>
+<br><br>
 
-#### 🗳️ Sawtak - Civic Engagement Platform
-**🏅 6th Place Crown Prince Award**
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/odaialtmrawe)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/odaialtmrawe)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/odaialtmrawe)
 
-Connecting citizens with decision makers through digital democracy.
+**🏅 Crown Prince Award | Top 6 out of 150**
 
-**Tech Stack:**
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs" />
-</p>
+Bridging the gap between citizens and decision-makers through innovative digital democracy.
 
-```dart
-class SawtakApp extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Sawtak - Your Voice Matters',
-      home: CivicEngagementDashboard(),
-    );
-  }
-}
-```
-
-**Features:**
+**Key Features:**
 - 🏛️ Government integration
-- 📝 Digital voting system
-- 💬 Citizen feedback portal
-- 📊 Real-time analytics
+- 📝 Secure digital voting
+- 💬 Real-time feedback portal
+- 📊 Advanced analytics dashboard
+- 🔐 End-to-end encryption
+
+**Tech Highlights:**
+- Scalable Firebase architecture
+- Real-time data synchronization
+- Advanced security protocols
+- Government API integrations
+
+</div>
 
 </td>
 </tr>
@@ -243,73 +301,48 @@ class SawtakApp extends StatelessWidget {
 <tr>
 <td width="50%">
 
+<h3 align="center">🌦️ Smart Weather & Caller</h3>
+
 <div align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200"/>
-</div>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Weather App"/>
+<br><br>
 
-#### 🌦️ Smart Weather & Caller App
-Native Android applications with advanced features
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/odaialtmrawe)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/odaialtmrawe)
 
-**Tech Stack:**
-<p>
-<img src="https://skillicons.dev/icons?i=java,android" />
-</p>
-
-```java
-public class WeatherService {
-    private WeatherAPI weatherAPI;
-    
-    public WeatherData getCurrentWeather(String location) {
-        return weatherAPI.fetchWeatherData(location);
-    }
-    
-    public void setupSmartNotifications() {
-        // Advanced notification system
-    }
-}
-```
+Native Android applications with advanced features and Material Design principles.
 
 **Features:**
-- 🌡️ Real-time weather data
-- 📞 Smart call management
-- 🔔 Intelligent notifications
-- 🎨 Material Design UI
+- 🌡️ Real-time weather forecasting
+- 📞 Intelligent call management
+- 🔔 Smart notification system
+- 🎨 Beautiful Material Design UI
+- 📍 Location-based services
+
+</div>
 
 </td>
 <td width="50%">
 
+<h3 align="center">🎮 Flutter Gaming Suite</h3>
+
 <div align="center">
-<img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="200"/>
-</div>
+<img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="100%" alt="Gaming Suite"/>
+<br><br>
 
-#### 🎮 Flutter Gaming Suite
-Interactive Bluetooth-enabled games
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/odaialtmrawe)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/odaialtmrawe)
 
-**Tech Stack:**
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-```dart
-class BluetoothGameController {
-  BluetoothConnection? connection;
-  
-  Future<void> connectToDevice() async {
-    connection = await BluetoothConnection.toAddress(deviceAddress);
-    startGameSession();
-  }
-  
-  void handleJoystickInput(JoystickData data) {
-    // Process gaming input
-  }
-}
-```
+Interactive Bluetooth-enabled multiplayer games with real-time communication.
 
 **Features:**
 - 🎮 Joystick control interface
 - 💬 Real-time chat system
 - 🔗 Bluetooth connectivity
 - 🏆 Multiplayer gaming
+- 🎯 Smooth animations
+
+</div>
 
 </td>
 </tr>
@@ -317,7 +350,7 @@ class BluetoothGameController {
 
 <div align="center">
 
-### ⚡ Hardware & FPGA Projects
+### ⚡ Hardware & FPGA
 
 </div>
 
@@ -325,70 +358,48 @@ class BluetoothGameController {
 <tr>
 <td width="50%">
 
+<h3 align="center">🖥️ Dual-Issue OoO Processor</h3>
+
 <div align="center">
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
-</div>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" alt="Processor"/>
+<br><br>
 
-#### 🖥️ Dual-Issue Out-of-Order Processor
-Advanced processor architecture in Verilog
+[![Verilog](https://img.shields.io/badge/Verilog-00599C?style=for-the-badge&logo=v&logoColor=white)](https://github.com/odaialtmrawe)
+[![FPGA](https://img.shields.io/badge/FPGA-0071C5?style=for-the-badge&logo=xilinx&logoColor=white)](https://github.com/odaialtmrawe)
 
-**Features:**
+Advanced processor architecture designed and implemented in Verilog HDL.
+
+**Architecture:**
 - ⚡ Dual-issue execution engine
 - 🔄 Out-of-order processing
-- 🧠 Branch prediction unit
-- 💾 Advanced cache optimization
+- 🧠 Dynamic branch prediction
+- 💾 Multi-level cache hierarchy
+- 🎯 Performance optimization
 
-```verilog
-module dual_issue_processor(
-    input clk, rst,
-    input [31:0] instruction1, instruction2,
-    output [31:0] result1, result2,
-    output reg pipeline_stall
-);
-
-// Instruction decode and dispatch logic
-always @(posedge clk) begin
-    if (!pipeline_stall) begin
-        // Dual instruction processing
-        dispatch_unit(instruction1, instruction2);
-    end
-end
-
-endmodule
-```
+</div>
 
 </td>
 <td width="50%">
 
-<div align="center">
-<img src="https://media.giphy.com/media/26gsspfbt1HfVQ9va/giphy.gif" width="200"/>
-</div>
+<h3 align="center">🌧️ Smart Irrigation System</h3>
 
-#### 🌧️ Smart Irrigation System
-IoT-based weather-aware garden automation
+<div align="center">
+<img src="https://media.giphy.com/media/26gsspfbt1HfVQ9va/giphy.gif" width="100%" alt="IoT System"/>
+<br><br>
+
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://github.com/odaialtmrawe)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/odaialtmrawe)
+
+IoT-based weather-aware automated garden irrigation system.
 
 **Features:**
 - 🌦️ Weather API integration
 - 💧 Smart water management
 - 📊 Real-time monitoring
 - 🔌 IoT connectivity
+- 📈 Data analytics
 
-```c
-#include <stdio.h>
-#include <wifi.h>
-#include <sensors.h>
-
-void smartIrrigation() {
-    float rainfall_prob = getWeatherData();
-    float soil_moisture = readSoilSensor();
-    
-    if (rainfall_prob < RAIN_THRESHOLD && 
-        soil_moisture < MOISTURE_THRESHOLD) {
-        activateIrrigation();
-        logActivity("Irrigation activated");
-    }
-}
-```
+</div>
 
 </td>
 </tr>
@@ -396,7 +407,7 @@ void smartIrrigation() {
 
 <div align="center">
 
-### 🌐 Web & Backend Projects
+### 🌐 Web & Backend
 
 </div>
 
@@ -404,233 +415,327 @@ void smartIrrigation() {
 <tr>
 <td width="50%">
 
+<h3 align="center">🏥 Medical Platform</h3>
+
 <div align="center">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
-</div>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" alt="Medical Platform"/>
+<br><br>
 
-#### 🏥 Medical Platform
-Secure client-server medical data management
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/odaialtmrawe)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/odaialtmrawe)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/odaialtmrawe)
 
-**Tech Stack:**
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,html,css,js" />
-</p>
-
-```php
-<?php
-
-class MedicalController extends Controller {
-    public function secureDataTransfer(Request $request) {
-        $encryptedData = encrypt($request->medicalData);
-        
-        // TCP secure transmission
-        return response()->json([
-            'status' => 'secure_transfer_complete',
-            'data' => $encryptedData
-        ]);
-    }
-    
-    public function generateHealthReport($patientId) {
-        return HealthReportService::generate($patientId);
-    }
-}
-```
+Secure client-server medical data management system.
 
 **Features:**
 - 🔐 End-to-end encryption
 - 👨‍⚕️ Multi-role authentication
 - 📊 Health analytics dashboard
-- 🏥 Hospital integration
+- 🏥 Hospital system integration
+- 📱 Responsive design
+
+</div>
 
 </td>
 <td width="50%">
 
+<h3 align="center">🤖 Intelligent Chatbot</h3>
+
 <div align="center">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
-</div>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Chatbot"/>
+<br><br>
 
-#### 🤖 Intelligent Chatbot
-NLP-powered conversational AI from scratch
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/odaialtmrawe)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/odaialtmrawe)
 
-**Tech Stack:**
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,flask" />
-</p>
-
-```python
-class IntelligentChatbot:
-    def __init__(self):
-        self.nlp_model = self.load_trained_model()
-        self.context_manager = ContextManager()
-    
-    def process_message(self, user_input):
-        intent = self.classify_intent(user_input)
-        context = self.context_manager.get_context()
-        
-        response = self.generate_response(intent, context)
-        self.context_manager.update_context(user_input, response)
-        
-        return response
-    
-    def continuous_learning(self, feedback):
-        self.retrain_model(feedback)
-```
+NLP-powered conversational AI built from scratch.
 
 **Features:**
 - 🧠 Advanced NLP processing
 - 💬 Context-aware conversations
 - 📈 Continuous learning
 - 🎯 Intent classification
+- 🔄 Self-improving algorithms
+
+</div>
 
 </td>
 </tr>
 </table>
 
+<br>
+
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎓 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Learning Journey & Certifications
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=odaialtmrawe&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=odaialtmrawe&theme=radical&border_radius=10&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=f093fb&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=667eea&sideLabels=667eea&dates=8b949e" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=odaialtmrawe&langs_count=8&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=odaialtmrawe&theme=high-contrast&bg_color=0D1117&color=667eea&line=f093fb&point=667eea&area=true&hide_border=true" alt="Activity Graph" />
+
+<!-- Contribution Snake -->
+<img src="https://raw.githubusercontent.com/odaialtmrawe/odaialtmrawe/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎓 Learning Journey & Certifications
 
 <div align="center">
 
 ```mermaid
+%%{init: {'theme':'dark'}}%%
 timeline
-    title My Learning Timeline
+    title Professional Development Timeline
     
-    2019 : Android Native Java
-         : First steps into mobile development
+    2019 : Android Native Development
+         : Java Programming Mastery
+         : First Mobile App Published
     
     2023 : Computer Vision (Udemy)
-         : Verilog Training (PSTU)  
-         : ROS2 Self-Learning
+         : Verilog HDL Training (PSTU)  
+         : ROS2 Robotics Framework
+         : FPGA Design Fundamentals
     
-    2024 : Flutter & Dart (Udemy)
-         : Advanced FPGA Design
+    2024 : Flutter & Dart Mastery (Udemy)
+         : Advanced FPGA Architecture
+         : Full Stack Web Development
     
-    2025 : Frontend Web (HTML, CSS, JS)
-         : Backend Laravel & FastAPI
+    2025 : Frontend Web (HTML/CSS/JS)
+         : Backend Development (Laravel)
+         : .NET Web API Core
+         : FastAPI & Microservices
          : React.js & React Native
          : Supervised ML (Coursera)
-         : IEEE Competition Winner
-         : Crown Prince Award
+         : IEEE Competition Winner 🥉
+         : Crown Prince Award 🏅
 ```
 
 </div>
 
+### 📚 Certification Portfolio
+
 <div align="center">
 
-### 📚 Certification Timeline
-
-| Year | Certification | Institution | Status |
-|------|---------------|-------------|---------|
-| 2019 | Android Native Programming | Self-Study | ✅ Completed |
-| 2023 | Computer Vision | Udemy | ✅ Completed |
-| 2023 | Verilog Training | PSTU | ✅ Completed |
-| 2024 | Flutter & Dart | Udemy | ✅ Completed |
-| 2025 | Full Stack Web Development | Multiple | ✅ Completed |
-| 2025 | Supervised Machine Learning | Coursera | ✅ Completed |
+| Year | Certification | Platform | Technology Focus | Status |
+|:----:|---------------|----------|------------------|:------:|
+| 2019 | **Android Native Programming** | Self-Study | Java, Android SDK | ✅ |
+| 2023 | **Computer Vision** | Udemy | OpenCV, Image Processing | ✅ |
+| 2023 | **Verilog HDL Training** | PSTU | FPGA, Digital Design | ✅ |
+| 2023 | **ROS2 Framework** | Self-Study | Robotics, Autonomous Systems | ✅ |
+| 2024 | **Flutter & Dart Development** | Udemy | Cross-Platform Mobile | ✅ |
+| 2024 | **Advanced FPGA Design** | Self-Study | Hardware Architecture | ✅ |
+| 2025 | **Full Stack Web Development** | Multiple | MERN, Laravel, .NET | ✅ |
+| 2025 | **.NET Web API Core** | Online Course | Backend APIs, C# | ✅ |
+| 2025 | **Supervised Machine Learning** | Coursera | ML Algorithms, Python | ✅ |
 
 </div>
 
+<br>
+
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Detailed Analytics
+## 🎯 Current Focus & 2025 Roadmap
+
+<div align="center">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="Goals"/>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Active Projects
+
+- [x] **Actify Deployment** - Launching AI fitness tracker
+- [x] **Sawtak Expansion** - Scaling civic platform
+- [ ] **FPGA Innovation** - Next-gen processor design
+- [ ] **Startup Launch** - Commercializing award winners
+- [ ] **Open Source** - Contributing to 15+ projects
+- [ ] **Technical Writing** - Publishing research articles
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Learning Focus
+
+**Primary:**
+- 🧠 Advanced Computer Vision & Deep Learning
+- 🔌 Edge AI & IoT Integration
+- ⚛️ Quantum Computing Fundamentals
+- ⚡ Advanced FPGA Architecture
+
+**Secondary:**
+- ☁️ DevOps & Cloud Architecture (AWS, Azure)
+- 🔗 Blockchain & Smart Contracts
+- 🥽 AR/VR Development
+- 👑 Technical Leadership & Mentoring
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odaialtmrawe&theme=github_dark" alt="Profile Summary" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=odaialtmrawe&theme=github_dark" alt="Most Used Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=odaialtmrawe&theme=github_dark" alt="Repos per Language" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=odaialtmrawe&theme=github_dark" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=odaialtmrawe&theme=github_dark&utcOffset=3" alt="Productive Time" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Current Focus & Goals
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300"/>
-</div>
-
-### 🚀 2025 Roadmap
-
-- [ ] 🎯 **Launch Actify**: Deploy AI fitness tracker to app stores
-- [ ] 🏛️ **Expand Sawtak**: Scale civic engagement platform
-- [ ] 🤖 **Master Advanced ML**: Complete specialized AI courses
-- [ ] ⚡ **FPGA Innovation**: Design next-gen processor architecture
-- [ ] 🌐 **Open Source**: Contribute to 15+ projects
-- [ ] 📚 **Knowledge Sharing**: Publish technical articles
-- [ ] 👥 **Community Building**: Mentor junior developers
-- [ ] 🎪 **Startup Launch**: Transform award-winning projects into products
-
-### 💡 Current Learning Focus
+### 💡 Vision for 2025
 
 ```javascript
-const learningPath2025 = {
-    primary: [
-        "Advanced Computer Vision 👁️",
-        "Edge AI & IoT Integration 🔌", 
-        "Quantum Computing Fundamentals ⚛️",
-        "Advanced FPGA Architecture ⚡"
-    ],
-    secondary: [
-        "DevOps & Cloud Architecture ☁️",
-        "Blockchain Development 🔗",
-        "AR/VR Development 🥽",
-        "Technical Leadership 👑"
-    ],
-    goals: {
-        competitions: "Win international tech competitions 🏆",
-        impact: "Create technology that changes lives 🌍",
-        community: "Build a strong developer community 🤝"
-    }
+const vision2025 = {
+    technical: {
+        master: ["Advanced AI/ML", "Edge Computing", "Quantum Basics"],
+        build: ["Production-ready apps", "Scalable systems", "Open source tools"],
+        innovate: ["Novel algorithms", "Efficient architectures", "Real-world solutions"]
+    },
+    
+    professional: {
+        achieve: ["Win international competitions", "Launch tech startup"],
+        grow: ["Mentor 50+ developers", "Speak at tech conferences"],
+        impact: ["Create jobs", "Solve real problems", "Give back to community"]
+    },
+    
+    personal: {
+        learn: "Never stop learning new technologies",
+        share: "Knowledge grows when shared",
+        inspire: "Be the developer you needed when starting"
+    },
+    
+    motto: "Building the future, one commit at a time 🚀"
 };
 ```
 
+</div>
+
+<br>
+
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📫 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Let's Connect!
+## 📫 Connect With Me
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="350" alt="Connect"/>
 
-### 🌐 Find Me Across The Internet
+### Let's Build Something Amazing Together! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/odai-tmrawe-981a9422a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](adaialtmrawe@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](tel:+962787366431)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/odaialtmrawe)
+<p align="center">
+<a href="https://www.linkedin.com/in/odai-tmrawe-981a9422a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:adaialtmrawe@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://wa.me/962787366431">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="https://github.com/odaialtmrawe">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=odaialtmrawe&color=brightgreen&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<br>
+
+### 💬 Open For
+
+<p align="center">
+<img src="https://img.shields.io/badge/🤝-Collaboration-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💼-Job_Opportunities-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎓-Mentorship-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💡-Tech_Discussions-purple?style=for-the-badge" />
+</p>
+
+<br>
+
+### 📧 Reach Me At
+
+<p align="center">
+<b>Email:</b> adaialtmrawe@gmail.com<br>
+<b>Phone:</b> +962 787 366 431<br>
+<b>Location:</b> Jordan 🇯🇴
+</p>
 
 </div>
 
----
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💭 Developer Wisdom
 
 <div align="center">
 
-### 💭 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br>
+
+### 🌟 Personal Motto
+
+> *"Innovation distinguishes between a leader and a follower."*  
+> **— Steve Jobs**
+
+<br>
+
+> *"The best way to predict the future is to invent it."*  
+> **— Alan Kay**
+
+<br>
+
+### ⚡ Quick Stats
+
+<img src="https://img.shields.io/badge/Lines%20of%20Code-500K%2B-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Projects%20Completed-50%2B-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Coffee%20Consumed-☕%20∞-brown?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hours%20Coding-10%2C000%2B-orange?style=for-the-badge" />
 
 </div>
 
----
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65&desc=Let's%20build%20the%20future%20together%20🚀&descAlignY=80&descSize=16">
+### 🙏 Thank You for Visiting!
 
-**⭐ From [Odai ALtmrawe](https://github.com/odaialtmrawe) with 💜**
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="350" alt="Thank You"/>
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400">
+<br>
 
-*"Innovation distinguishes between a leader and a follower"* - Steve Jobs
+**If you like my work, consider:**
 
-### 🌟 Made with ❤️ and lots of ☕ 
+<p>
+<a href="https://github.com/odaialtmrawe">
+  <img src="https://img.shields.io/badge/⭐-Star_My_Repos-yellow?style=for-the-badge" />
+</a>
+<a href="https://github.com/odaialtmrawe">
+  <img src="https://img.shields.io/badge/👥-Follow_Me-blue?style=for-the-badge" />
+</a>
+<a href="https://www.linkedin.com/in/odai-tmrawe-981a9422a/">
+  <img src="https://img.shields.io/badge/🤝-Connect_on_LinkedIn-0077B5?style=for-the-badge" />
+</a>
+</p>
+
+<br>
+
+### 💜 Made with passion, powered by coffee ☕
+
+<img src="https://komarev.com/ghpvc/?username=odaialtmrawe&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+<br><br>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=150&section=footer&text=Happy%20Coding!%20🚀&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=70" alt="footer"/>
 
 </div>
