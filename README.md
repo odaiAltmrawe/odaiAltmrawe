@@ -29,7 +29,7 @@ const odai = {
         degree: "BS Computer Engineering",
         university: "University of Jordan",
         gpa: "3.45/4.0",
-        status: "2021 - Present"
+        status: "2021 - 2026"
     },
     currentRoles: [
         "📱 Native Android Instructor @ Tesla Academy",
